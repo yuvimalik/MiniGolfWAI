@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="9.2.1">
+<file name="C:\Users\yuv05\Downloads\hw09_local\hw09_local_temp\src\main\java\org\cis1200\minigolf\Action.java">
+</file>
+<file name="C:\Users\yuv05\Downloads\hw09_local\hw09_local_temp\src\main\java\org\cis1200\minigolf\GameBoard.java">
+</file>
+<file name="C:\Users\yuv05\Downloads\hw09_local\hw09_local_temp\src\main\java\org\cis1200\minigolf\HeadlessEnvTendency.java">
+</file>
+<file name="C:\Users\yuv05\Downloads\hw09_local\hw09_local_temp\src\main\java\org\cis1200\minigolf\Player1.java">
+<error line="5" column="19" severity="warning" message="Variable &apos;xcoordinate&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="6" column="19" severity="warning" message="Variable &apos;ycoordinate&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="7" column="19" severity="warning" message="Variable &apos;vx&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="8" column="19" severity="warning" message="Variable &apos;vy&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="9" column="19" severity="warning" message="Variable &apos;power&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+<error line="10" column="19" severity="warning" message="Variable &apos;angle&apos; must be private and have accessor methods." source="com.puppycrawl.tools.checkstyle.checks.design.VisibilityModifierCheck"/>
+</file>
+<file name="C:\Users\yuv05\Downloads\hw09_local\hw09_local_temp\src\main\java\org\cis1200\minigolf\States.java">
+</file>
+<file name="C:\Users\yuv05\Downloads\hw09_local\hw09_local_temp\src\test\java\org\cis1200\minigolf\MiniGolfTesting.java">
+</file>
+</checkstyle>
